@@ -1,0 +1,17 @@
+ros-humble-as2-platform-mavlink (1.1.0-1bookworm) bookworm; urgency=high
+
+  * [feat] updated params for multi-vehicle simulation
+  * [fix] passing tests
+  * [feat] new launchers
+  * [feat] add mavros dependencies
+  * [feat] external odom
+  * [docs] update readme
+  * [feat] kill switch
+  * [feat] enable odom, battery and gps
+  * [feat] remaps in launcher
+  * [feat] command enabled
+  * Contributors: Miguel Fernandez Cortizas
+
+ -- Computer Vision And Aerial Robotics Group (UPM) <cvar.upm3@gmail.com>  Mon, 19 Aug 2024 16:00:00 -0000
+
+
